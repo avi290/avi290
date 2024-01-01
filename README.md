@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/YfEzujpYttqN49qnxRHEfFjzGsA2Cg8dDjrmr4rRfDc/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzEyOTI2/Nzcvc2NyZWVuc2hv/dHMvNjEzOTE2Ny9h/dmVudG8uZ2lm.gif">
 
-- 🌱 I’m currently learning **bootstraps**
+- 🌱 I’m currently learning **python and js**
 
 - 📫 How to reach me **avinashjena29@gmail.com**
 
